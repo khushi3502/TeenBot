@@ -1,0 +1,12 @@
+pip
+setuptools
+wheel
+streamlit
+scikit-learn
+transformers
+torch
+openai
+anthropic
+python-dotenv
+httpx
+httpcore
